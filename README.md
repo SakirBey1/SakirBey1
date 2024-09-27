@@ -53,7 +53,6 @@ Soru | Cevap
   # Hemçkırım ben
   # Sen ddos yiyon
   # Sen kod çalıyon
-  # Bağış için [Tıkla](https://telegra.ph/Ba%C4%9F%C4%B1%C5%9F-04-29)
   # [AocProjects](https://github.com/AocProjects)
   
 <img src="https://i.pinimg.com/originals/62/c9/3a/62c93a4cf6462f54fdea6d735d927f9c.gif" height="90" with="86">
